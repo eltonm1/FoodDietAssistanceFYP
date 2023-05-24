@@ -1,0 +1,960 @@
+0_0.png,Nutrition Information
+0_1.png,Serving Size 2g
+0_10.png,Saturated fat
+0_11.png,0g
+0_12.png,Trans fat
+0_13.png,1.8g
+0_14.png,Total carbohydrates
+0_15.png,0g
+0_16.png,Dietary fibre
+0_17.png,1.8g
+0_18.png,Sugars
+0_19.png,0mg
+0_2.png,Servings Per Package Approx. 23
+0_20.png,Sodium
+0_3.png,Per Serving
+0_4.png,Energy
+0_5.png,8kcal
+0_7.png,Protein
+0_8.png,Total fat
+0_9.png,0.1g
+10_0.png,營養資料 Nutritio
+10_1.png,Information
+10_10.png,飽和脂肪 / Saturated Fat
+10_11.png,0克/g
+10_12.png,反式脂肪/ Trans Fat
+10_13.png,0克/g
+10_14.png,總碳水化合物/ Total Catbohydrates 4.5克/g
+10_15.png,膳食纖維
+10_16.png,0克/g
+10_17.png,糖 / Sugars
+10_18.png,4.5克/g
+10_19.png,鈉 / Sodium
+10_2.png,每100毫升 /Per 100 ml
+10_20.png,16毫克 / mg
+10_3.png,能量/Energy
+10_4.png,18千卡/kcal
+10_5.png,76千焦/kJ
+10_6.png,蛋白質/Protein
+10_7.png,0克/g
+10_8.png,總脂肪 / Total Fat
+10_9.png,0克/g
+11_0.png,營養資料 Nutrition Information
+11_1.png,100 毫升 / Per 100 ml
+11_10.png,0克/g
+11_11.png,反式脂肪 / Trans Fat
+11_12.png,0克/g
+11_13.png,總碳水化合物/ Total Carbotydrates 0克 / g
+11_14.png,膳食纖維 / Dietary Fiber
+11_15.png,0克/g
+11_16.png,0克/g
+11_17.png,Sugars
+11_18.png,Sodium
+11_19.png,11毫克/mg
+11_2.png,能量/Energy
+11_3.png,0千卡/kcal
+11_4.png,0千焦/kJ
+11_5.png,蛋白質/Protein
+11_6.png,0克/g
+11_7.png,總脂肪 / Total Fat
+11_8.png,0克/g
+11_9.png,飽和脂肪 / Saturated Fat
+12_1.png,營養資料
+12_10.png,0克/g
+12_11.png,飽和脂肪/Saturated fat
+12_12.png,0克/g
+12_13.png,反式脂肪/Trans fat
+12_14.png,0克/g
+12_15.png,碳水化合物/Carbohydrates
+12_16.png,13.0克/g
+12_17.png,糖/Sugars
+12_18.png,13.0克/g
+12_19.png,/Sodium
+12_2.png,每100毫升
+12_20.png,10毫克/mg
+12_3.png,Nutrition Information
+12_4.png,Per 100 ml
+12_5.png,熱量/Energy
+12_6.png,52千卡/kcal
+12_7.png,蛋白質/Protein
+12_8.png,0克/g
+12_9.png,脂肪總量/Fat. total
+13_0.png,營養資料
+13_1.png,Nutrition Information
+13_10.png,Saturated fat/飽和脂肪
+13_11.png,Trans fat/反式脂肪
+13_12.png,Cholestrial/膽固醇
+13_13.png,Total Carbohydrates/總碳水化合物 3.8g克
+13_16.png,Dietary Fiber/膳食纖維
+13_17.png,Sugar/糖
+13_18.png,Sodium
+13_2.png,Per 100 mL/ 每100毫升
+13_3.png,Energy/能量
+13_4.png,0kcal/千卡
+13_5.png,protein/蛋白質
+13_6.png,0g/克
+13_7.png,total fat/總脂肪
+13_8.png,0g/克
+14_0.png,Nutrition Information
+14_1.png,Per 100ml
+14_10.png,Carbohydrates
+14_11.png,9.4.g
+14_12.png,Sugars
+14_13.png,9.3g
+14_14.png,Sodium
+14_15.png,19mg
+14_16.png,vitamin c
+14_17.png,20mg
+14_2.png,Energy
+14_3.png,38kcal
+14_4.png,Protein
+14_5.png,0g
+14_6.png,Total Fat
+14_8.png,Saturated Fat
+14_9.png,Trans Fat
+15_0.png,營養資料
+15_1.png,每100毫升
+15_10.png,飽和脂肪/Saturated fat
+15_11.png,0.5克/g
+15_12.png,反式脂肪
+15_13.png,0克/g
+15_14.png,碳水化合物/ Carbohydrates
+15_15.png,7.4克g
+15_16.png,糖/Sugar
+15_17.png,6.0克/g
+15_18.png,鈉/Sodium
+15_19.png,75毫克/mg
+15_2.png,Nutrition Information
+15_20.png,維他命B2 /Vitamin B2
+15_21.png,0.11毫克/mg
+15_22.png,維他命B3 /Vitamin B3
+15_23.png,1.1毫克/mg
+15_24.png,維他命B6 /Vitamin B6
+15_25.png,0.11毫克/mg
+15_3.png,per 100 mL
+15_4.png,熱量/ Energy
+15_5.png,51千卡/kcal
+15_6.png,白質/Protein
+15_7.png,1.8克/g
+15_8.png,脂肪總量/ Fat total
+15_9.png,1.5克/g
+16_0.png,Nutrition Information
+16_1.png,營養資料
+16_10.png,Trans fat/反式脂肪
+16_11.png,7.0克/g
+16_12.png,Carbohydrates/碳水化合物
+16_13.png,7.0g/克
+16_14.png,Sugars
+16_15.png,6mg/毫克
+16_16.png,Sodium
+16_17.png,20mg/毫克
+16_18.png,Vitamin C /維他命C
+16_2.png,Per 100ml /每100毫升
+16_3.png,Ereany/能量
+16_4.png,29kcal/千卡
+16_5.png,Protein/蛋白質
+16_6.png,0g/克
+16_8.png,Total fat/總脂肪
+16_9.png,Saturated fat/飽和脂肪
+17_1.png,營養資料
+17_10.png,0克/g
+17_11.png,飽和脂肪/Saturated fat
+17_12.png,0克/g
+17_13.png,反式脂肪/Trans fat
+17_14.png,0克/g
+17_15.png,碳水化合物/Carbohydrates
+17_16.png,0克/g
+17_17.png,0克/g
+17_18.png,糖/Sugars
+17_19.png,/Sodium
+17_2.png,每100毫升
+17_20.png,10毫克/mg
+17_3.png,Nutrition Information
+17_4.png,per 100mL
+17_5.png,熱量/Energy
+17_6.png,0千卡/kcal
+17_7.png,蛋白質/Protein
+17_8.png,0克/g
+17_9.png,脂肪總量/Fat total
+18_0.png,營養資料
+18_1.png,每100毫升
+18_10.png,飽和脂肪/ Saturated fat
+18_11.png,0.4克/g
+18_12.png,反式脂肪/ Trans fat
+18_13.png,0克/g
+18_14.png,碳水化合物/ Carbohydrates
+18_15.png,6.6克/g
+18_16.png,糖/Sugar
+18_17.png,6.5克/g
+18_18.png,鈉/Sodium
+18_19.png,40毫克/mg
+18_2.png,Nutrition Information
+18_20.png,維他命B2/Vitamin B2
+18_21.png,0.11毫克/mg
+18_22.png,維他命B3/Vitamin B3
+18_23.png,1.1毫克/mg
+18_24.png,維他命B6/Vitamin B6
+18_25.png,0.11毫克/mg
+18_3.png,Per 100 ml
+18_4.png,熱量/Energy
+18_5.png,47千卡/kcal
+18_6.png,蛋白質/Protein
+18_7.png,1.8克/g
+18_8.png,脂肪總量/ Fat total
+18_9.png,1.5克/g
+19_0.png,Nutrition lnformation/營養資料
+19_1.png,Serving Size/ 食用分量2.8/克
+19_10.png,0g
+19_11.png,0g/克
+19_12.png,Total fat/總脂肪
+19_16.png,Saturated fat/飽和脂肪
+19_17.png,Trans fat/反式脂肪
+19_18.png,Carbohydrates/碳水化合物
+19_19.png,65.3g
+19_2.png,Serving per package
+19_20.png,Sugars/糖
+19_21.png,Sodium/鈉
+19_22.png,0mg/毫克
+19_5.png,Per 100g/每00克
+19_6.png,Energy/ 能量
+19_8.png,31kJ/千焦
+19_9.png,Protein/蛋白質
+1_1.png,Per 100ml/ 每100毫升
+1_10.png,0g/克
+1_11.png,Carbohydrates /碳水化合物 5.1g /克
+1_12.png,Sugars/糖
+1_13.png,4.8克/g
+1_14.png,Sodium/鈉
+1_15.png,4.2mg/毫克
+1_2.png,Energy/能量
+1_3.png,41Kcal/千卡
+1_4.png,Protein/蛋白質
+1_5.png,2.1g/克
+1_6.png,1.6g/克
+1_7.png,Total Fat/總脂肪
+1_8.png,Saturated Fat /飽和脂肪 0.1g /克
+1_9.png,Trans Fat/反式脂肪
+20_0.png,Nutrition Information 營養資料
+20_4.png,Per 100 mL
+20_6.png,每100毫升
+21_1.png,每100毫升 Per100ml
+21_10.png,反式脂肪 Trans Fat
+21_11.png,0克g
+21_13.png,7.8克g
+21_14.png,Sugar
+21_15.png,7.5克g
+21_16.png,Sodium
+21_17.png,44毫克/mg
+21_2.png,能量 Energy
+21_3.png,236千焦kJ/56千卡kcal
+21_4.png,蛋白質 Protein
+21_5.png,1.7克g
+21_6.png,總脂肪 Total Fat
+21_7.png,2.0克g
+21_8.png,飽和脂肪 Saturated Fat
+21_9.png,1.2克g
+22_1.png,Per 100mL / 每100毫升
+22_10.png,Carbohydrats/碳水化合物
+22_11.png,0g/克
+22_12.png,Sugars/糖
+22_13.png,15mg/毫克
+22_14.png,Sodium
+22_2.png,Okcal/千卡
+22_3.png,Energy/能量
+22_5.png,Protein/蛋白質
+22_6.png,Total Fat/總脂肪
+22_8.png,Saturaied Fat/飽和脂肪
+22_9.png,Trans Fat/反式脂肪
+23_0.png,Nutrition Information
+23_10.png,Total fat/總脂肪
+23_12.png,Saturated fat/飽和脂肪
+23_13.png,Trans fat/反式脂肪
+23_14.png,Carbohydrats/碳水化合物
+23_15.png,0
+23_16.png,0g
+23_17.png,Sugars/糖
+23_18.png,0g
+23_19.png,Sodium/鈉
+23_5.png,Energy/能量
+23_8.png,Protein/蛋白質
+23_9.png,0g
+24_1.png,每100毫升 / Per 100ml
+24_10.png,0克/g
+24_11.png,反式脂肪 / Trans Fat
+24_12.png,0克/g
+24_13.png,總碳水化合物/ Total Cartbohydrates 0克/g
+24_14.png,膳食纖維/ Dietary Fibre
+24_15.png,0克/g
+24_16.png,糖/Sugars
+24_17.png,0克/g
+24_18.png,Sodium
+24_19.png,10毫克/mg
+24_2.png,能量 / Energy
+24_3.png,0千卡/kcal
+24_4.png,0千焦/kJ
+24_5.png,蛋白質/Protein
+24_6.png,0克/g
+24_7.png,總脂肪 / Total Fat
+24_8.png,0克/g
+24_9.png,飽和脂肪 / Saturated Fat
+25_1.png,每100毫升 per 100ml
+25_10.png,0克/g
+25_12.png,糖/Sugars
+25_13.png,7.8克/g
+25_14.png,鈉Sodium
+25_15.png,80毫克/mg
+25_2.png,能量Energy
+25_3.png,60千卡/kcal
+25_4.png,蛋白質Protein
+25_5.png,1.7克/g
+25_6.png,總脂肪Total fat
+25_8.png,飽和脂肪Saturated fat
+25_9.png,反式脂肪Trans fat
+_________________________
+26_0.png,nutr hdration
+26_1.png,seri per at/飽ngt
+26_10.png,v養ang
+26_11.png,calt
+26_12.png,total fat
+26_13.png,vitaminat
+26_14.png,vitaminfat
+26_15.png,saturat fat
+26_16.png,1rn
+26_17.png,vran g
+26_18.png,trans fat
+26_19.png,vitaminy
+26_2.png,saraohydfat/碳飽和脂肪
+26_20.png,營5g
+26_21.png,cholestrial
+26_22.png,cai mg
+26_23.png,7資料
+26_25.png,7ag
+26_26.png,1rtag
+26_27.png,totas satiat
+26_28.png,traat
+26_29.png,1養 g
+26_3.png,dirvatred patv飽和合肪
+26_30.png,sodium
+26_31.png,0資y
+26_32.png,11mg
+26_4.png,energ0y
+26_5.png,111kcal
+26_6.png,491kcal
+26_7.png,1kcal
+26_8.png,1170kcal
+26_9.png,protein
+27_0.png,nutrition pnr catvintg
+27_1.png,8e/ag
+27_11.png,tarns fat/反和脂肪
+27_12.png,carbohydrates/碳水化合物
+27_13.png,satare/量
+27_14.png,sodi 糖
+27_15.png,cietargyr
+27_2.png,per 100 ml
+27_3.png,8100g
+27_4.png,energy/能量
+27_5.png,chol fat
+27_6.png,protri/蛋白質
+27_8.png,total fat/總脂肪
+27_9.png,saturated fat/飽和脂肪
+28_0.png,營養資料
+28_1.png,nutrition informat n
+28_10.png,saturated fat/飽和脂肪
+28_11.png,chlo/能量
+28_12.png,dras fat/反式脂肪
+28_13.png,saturateded rfae/飽化合物
+28_14.png,421/能量
+28_15.png,sugar/糖
+28_16.png,viaie e
+28_17.png,tra/脂肪
+28_18.png,calori es
+28_19.png,calr7en/水化合物
+28_2.png,tat aohydat/飽和脂肪
+28_20.png,vitar9 g
+28_21.png,tran /at
+28_22.png,amuin s yf cat/式脂肪
+28_23.png,crar at/反式脂肪
+28_25.png,coarbohydrat化合t
+28_26.png,catuleheydrat/碳水化合物
+28_3.png,total f/at
+28_4.png,energy/能量
+28_5.png,caloi fat
+28_7.png,0mg
+28_8.png,total fat/總脂肪
+28_9.png,energy/能量
+29_1.png,nutrinarboydra ta
+29_2.png,taourted /合g
+2_0.png,suturated fata
+2_1.png,per 10 ml
+2_11.png,9.4g
+2_13.png,eneary/能量
+2_15.png,saoarvi at
+2_16.png,3.g
+2_17.png,trar fat
+2_2.png,840mg
+2_3.png,energy/能量
+2_4.png,4t f/at
+2_5.png,protei/蛋白質
+2_7.png,10./糖
+2_9.png,144g
+30_0.png,nuta ininonormation
+30_1.png,shturatped毫克/g
+30_10.png,05克/g
+30_11.png,carbidrs碳水化合物
+30_12.png,05毫克/mg
+30_13.png,perin cgs
+30_14.png,total carbohydrat總碳水化合物
+30_15.png,tras fat
+30_16.png,85克/mg
+30_17.png,dietary fiber
+30_18.png,va75s
+30_19.png,751毫克/mg
+30_2.png,eney
+30_20.png,sodium
+30_21.png,128毫克/mg
+30_3.png,21千卡/kcal
+30_4.png,1122千卡/kcal
+30_5.png,51cat
+30_6.png,053克/g
+30_7.png,33at
+30_8.png,053克/mg
+30_9.png,setritrdrmatat
+31_0.png,營養資料
+31_1.png,nutrition information
+31_10.png,saturated fat/飽和脂肪
+31_11.png,trans fat/反式脂肪
+31_12.png,cnotarngy/能s
+31_13.png,chorletria/膽固醇
+31_14.png,catrbedrate/碳水化合物
+31_15.png,159kcal
+31_16.png,saturated fat/飽和脂肪
+31_17.png,0o9l
+31_18.png,dieary fiber/膳食纖維
+31_19.png,0an
+31_2.png,tatal aohdfat/碳水化脂物
+31_20.png,sugar/能量
+31_21.png,energ/ts
+31_22.png,sorims
+31_3.png,caotal fat
+31_4.png,dirbyd rfiber
+31_5.png,vitams
+31_6.png,protarf/a質
+31_7.png,vitat
+31_8.png,total fat/總脂肪
+32_0.png,siary at/水化合物
+32_1.png,sertg per ont/v飽nt肪
+32_10.png,saturated fat/飽和脂肪
+32_11.png,trans fat/反式脂肪
+32_13.png,ad10cal
+32_14.png,satr/能量
+32_15.png,calorie 路里
+32_16.png,sa fcag
+32_2.png,saervgpedraeckage
+32_3.png,ditarhyd rfa水和合物
+32_4.png,ctred fat/飽和脂肪
+32_5.png,caloriy/卡路里
+32_8.png,tran fat/反式脂t
+32_9.png,trtal fat/反式脂肪
+33_0.png,6ag
+33_1.png,smtrni per conting
+33_10.png,tiran fat/反式脂肪
+33_11.png,carbohd rat/碳水化合物
+33_12.png,titar f/脂肪
+33_13.png,diearyrbi r
+33_2.png,tnas fat/飽和脂肪
+33_3.png,total f/at
+33_4.png,57t千ag
+33_5.png,energy能量
+33_7.png,pietari/at
+33_8.png,ditaoy fat/和脂肪
+33_9.png,saturated fat/飽和脂肪
+34_1.png,vita a
+34_10.png,taa fat/卡脂g
+34_12.png,sugar/糖
+34_13.png,tota fat/總脂肪
+34_14.png,sugart
+34_15.png,protay/蛋白量
+34_17.png,cioai/蛋a質
+34_2.png,satrated fat/飽和脂肪
+34_3.png,dietar/式 r
+34_4.png,srta/a量
+34_5.png,9/路s
+34_6.png,niea fat/cmg
+34_8.png,draefat/飽食脂g
+34_9.png,seutg perd a/飽和脂肪
+35_0.png,carbohydrat/水化t物
+35_1.png,per 100 ml
+35_10.png,saturated fat/飽和脂肪
+35_11.png,calyies
+35_12.png,trans fat/反式脂肪
+35_13.png,7s
+35_14.png,carbohydrates/碳水化合物
+35_15.png,7219/l
+35_16.png,sugar/糖
+35_17.png,3e5gy/能量
+35_18.png,sodi s
+35_2.png,per100g
+35_3.png,tita fa/反式脂肪
+35_4.png,energy/能量
+35_5.png,0als
+35_6.png,piotrin/蛋白質
+35_7.png,0aly/s
+35_8.png,trtan fat/總脂肪
+35_9.png,0algys
+36_10.png,tran f/at
+36_11.png,dietar iber
+36_12.png,eneny
+36_14.png,trta fat/總脂肪
+36_17.png,saturated fat/飽和脂肪
+36_18.png,tra fat/反式脂肪
+36_19.png,catroehdrat/碳水化合物
+36_21.png,satrat/at
+36_22.png,t sat
+36_23.png,sugartd me
+36_24.png,tranfa/at
+36_3.png,servigper packan
+36_4.png,caeariyra卡s/卡路里
+36_5.png,saturatod fat/脂肪
+36_6.png,srtaae st/卡路里
+36_8.png,ereay/能量
+36_9.png,s1能s
+37_0.png,nutrnt rfa水o合物
+37_1.png,nutriaton edrantcgt
+37_10.png,total fat/反式脂肪
+37_12.png,carbohydrates/碳水化合物
+37_13.png,9kcal
+37_14.png,calories
+37_15.png,sua00me
+37_16.png,15卡kcal
+37_2.png,vit y fat克/ing
+37_3.png,citarbyac合物
+37_4.png,courhyd rat碳水ag物
+37_5.png,energy/能量
+37_8.png,9roa/ 質
+38_1.png,515毫卡ag
+38_10.png,trans fat/反式脂肪
+38_11.png,cholestrial/膽固醇
+38_12.png,dietarey f/iber
+38_13.png,carbohydrates/碳水化合物
+38_14.png,28g
+38_15.png,calyg
+38_16.png,sugar/糖
+38_17.png,dieary fiber/膳食纖維
+38_18.png,148g
+38_19.png,sordium
+38_2.png,per 100 ml
+38_20.png,energy/a
+38_3.png,per100  ag
+38_4.png,energy/能量
+38_5.png,sugar/e
+38_6.png,pitarinf/路肪
+38_8.png,total fat/總脂肪
+38_9.png,saturated fat/飽和脂肪
+39_0.png,nitito rninformat水oen
+39_1.png,tital arss/碳水化路里
+39_10.png,saturated fat/飽和脂肪
+39_11.png,trtae fat/反式脂肪
+39_12.png,saturated fat/飽和脂肪
+39_14.png,sugars
+39_15.png,saouri e
+39_16.png,carber/碳水化合物
+39_2.png,40cal
+39_22.png,營rta/at
+39_3.png,energy/能量
+39_4.png,sugay
+39_5.png,trtan fat/反式脂肪
+39_9.png,totalatdfat/飽和脂肪
+3_0.png,siua ydrate/ag
+3_1.png,servre per cat/飽o合物
+3_10.png,non
+3_11.png,tra fa/反式at
+3_12.png,35/ag
+3_13.png,188.g
+3_15.png,satarated ft/at
+3_16.png,4/g
+3_17.png,19.1g
+3_18.png,transs fat
+3_19.png,191kcal
+3_2.png,caohydrates/碳水化合物
+3_20.png,營9g
+3_21.png,carbaae
+3_22.png,31g
+3_23.png,11g
+3_24.png,ditaats
+3_25.png,89.5g
+3_26.png,1gg
+3_27.png,ciry/ag
+3_28.png,55mg
+3_29.png,營養資料
+3_4.png,p 10 g
+3_5.png,sugarg/糖
+3_6.png,30kcal
+3_7.png,91kcal
+3_8.png,dietary rial
+3_9.png,營養n
+40_0.png,nutrition information
+40_1.png,pietar mg
+40_10.png,trans fat
+40_11.png,6ag
+40_12.png,carbohydratts
+40_13.png,62mg
+40_14.png,sugars
+40_15.png,7 c
+40_16.png,sodium
+40_17.png,201mg
+40_2.png,2951kcal
+40_3.png,energy
+40_4.png,peotrug
+40_5.png,0.6mg
+40_6.png,total fat
+40_7.png,61.0mg
+40_8.png,saturated ftat
+40_9.png,營養ag
+41_0.png,nutrition information
+41_1.png,daervs fat/飽和脂肪
+41_10.png,169g
+41_11.png,carbohydrates/碳水化合物
+41_12.png,90/s
+41_13.png,saavis
+41_14.png,enea2g/能量
+41_15.png,c01 g
+41_2.png,totalat
+41_3.png,energy/能量
+41_4.png,vitact
+41_5.png,trears /卡路r
+41_6.png,155千卡/kcag
+41_7.png,total fat/總脂肪
+41_8.png,saturated fat/飽和脂肪
+41_9.png,trans fat/反式脂肪
+42_0.png,nutrition information
+42_1.png,servipses a/kcae
+42_10.png,nar f/at
+42_11.png,satrated f/at
+42_12.png,tra9k反cal
+42_13.png,vransat
+42_14.png,trg
+42_15.png,total carbohydrates
+42_16.png,營養at
+42_17.png,dietary fiber
+42_18.png,1g
+42_19.png,sugars
+42_2.png,saeurvg ed fat飽和脂肪
+42_20.png,vii克/s
+42_21.png,sodium
+42_3.png,per克 mg
+42_4.png,caial
+42_5.png,energ/能量
+42_6.png,1養98ag
+42_7.png,protein
+42_8.png,營養1毫資料
+42_9.png,total fat
+43_0.png,natroninformation
+43_10.png,saturated fat/飽和脂肪
+43_11.png,0os
+43_12.png,trans fat/反式脂肪
+43_13.png,tutay/能量
+43_14.png,catrboeyd fat/飽和脂肪
+43_15.png,tota量
+43_16.png,sagars
+43_17.png,energy/能量
+43_18.png,sdium
+43_2.png,caersd fat/卡脂肪
+43_3.png,energy/能量
+43_4.png,choln
+43_5.png,proaein/蛋白質
+43_7.png,total fat/總脂肪
+43_8.png,0g
+43_9.png,09/g
+44_1.png,nutrition information
+44_10.png,saturated fat/飽和脂肪
+44_11.png,eney資g
+44_12.png,trans fat/反式脂肪
+44_13.png,choe/kcal
+44_14.png,satrated fats/碳水化合物
+44_15.png,satarat
+44_16.png,tr能量
+44_17.png,so0dium
+44_18.png,se/卡能量
+44_19.png,pietarri t
+44_2.png,營養 g
+44_20.png,tra fa/at肪
+44_21.png,calie me
+44_22.png,0a/資料
+44_23.png,vitam e
+44_24.png,tra fa/a脂肪
+44_25.png,trs fat/反式脂肪
+44_26.png,trang/as
+44_27.png,carle a飽at
+44_28.png,tran at/反式脂肪
+44_29.png,ca1/卡合r
+44_3.png,sngri/at
+44_4.png,energgy/能量
+44_5.png,totai fat
+44_6.png,protar/蛋白質
+44_7.png,pnetery/能量
+44_8.png,total fat/總脂肪
+44_9.png,eigy/能量
+45_0.png,total fat
+45_11.png,total carbohydrates
+45_12.png,saturated faat
+45_13.png,total fat/脂肪
+45_14.png,ditarn c
+45_15.png,enery/能量
+45_16.png,so0di m
+45_17.png,ne0mg
+45_18.png,suoars
+45_2.png,tral fat
+45_3.png,9rttd fat
+45_5.png,442mg
+45_6.png,satarg faat
+45_7.png,toea um
+45_8.png,dietary fer/膳食纖維
+45_9.png,trans fat/反式脂肪
+46_0.png,seat/ag
+46_1.png,1a0e f/mg
+46_10.png,vaons
+46_11.png,91克/g
+46_12.png,cholessial
+46_13.png,9毫克/mg
+46_14.png,trti a cacrbhdorates
+46_15.png,781毫克/g
+46_16.png,vitarmins
+46_17.png,910克/g
+46_18.png,sodium
+46_19.png,73mg
+46_2.png,energy
+46_3.png,9513克/卡g
+46_4.png,5aercal
+46_5.png,9101克/g
+46_6.png,er10fat
+46_7.png,510克/g
+46_8.png,cararyormatat
+46_9.png,04克/g
+47_1.png,crn ate/碳水化合物
+47_11.png,total fat/總脂肪
+47_12.png,saturated fat/飽和脂肪
+47_13.png,trans fat/反式脂肪
+47_15.png,7ioaag
+47_16.png,sntar/at
+47_17.png,sauvnea
+47_2.png,nietarart卡/飽和合肪
+47_3.png,smeurvit per aerv飽ng
+47_6.png,energy/能量
+47_9.png,proain/蛋白質
+48_0.png,nutrition information
+48_1.png,serving pes ackcae
+48_10.png,fat
+48_11.png,4r9g
+48_12.png,tran/ag
+48_13.png,saturated fat
+48_14.png,8sag
+48_15.png,9aat
+48_16.png,trans fat
+48_17.png,vitamina
+48_18.png,89.cag
+48_19.png,carbohydrates
+48_2.png,serving per package
+48_20.png,781g
+48_21.png,sag糖
+48_22.png,dietary fiber
+48_23.png,7aab
+48_24.png,fraat
+48_25.png,totalsratats
+48_26.png,1e419g
+48_27.png,7g
+48_28.png,sodium
+48_3.png,servitn per rataion
+48_30.png,1071g
+48_31.png,cholestrial
+48_32.png,3養/mg
+48_33.png,61g
+48_4.png,energy
+48_5.png,90cml
+48_6.png,504kcal
+48_7.png,vital at
+48_8.png,dietariar
+48_9.png,1r9kca料
+49_0.png,s養tr
+49_1.png,nutrition informoatio n
+49_10.png,trans fat/反式脂肪
+49_11.png,carbohdrates/碳水化合物
+49_12.png,sagartat
+49_13.png,sodium
+49_2.png,siervie fat/和at
+49_3.png,saotltl f/at
+49_4.png,energy/能量
+49_5.png,0ry
+49_6.png,pitai/ t
+49_8.png,total fat/總脂肪
+49_9.png,saturated fat/飽和脂肪
+4_0.png,carbohyd rte/水化合物
+4_10.png,sugars
+4_2.png,enery/能量
+4_4.png,protein/蛋白質
+4_5.png,total fat/總a脂肪
+4_6.png,saturated fat/飽和脂肪
+4_7.png,trans fat/反式脂肪
+50_1.png,tia iaer/食纖維
+50_14.png,151g
+50_3.png,trn
+50_5.png,11g
+51_0.png,netrton iyfrmatior
+51_1.png,sag
+51_10.png,vitamin c
+51_11.png,tie/卡路里
+51_12.png,vitamg
+51_13.png,saturated fates/碳水化合物
+51_14.png,catares
+51_15.png,vitamns
+51_16.png,caloried e里
+51_17.png,cargy/能s
+51_2.png,carbedat/碳化合物
+51_3.png,entargy/能糖
+51_4.png,1iaat
+51_5.png,aear f/i蛋路里
+51_6.png,1n1g
+51_7.png,total fa/脂肪
+51_8.png,eitanat
+51_9.png,saturated fat/飽和脂肪
+52_1.png,titrion informatm肪
+52_10.png,eng9 g
+52_11.png,trafat
+52_12.png,8資料
+52_13.png,catrhydrfaat
+52_14.png,9n c
+52_15.png,sugard ft
+52_16.png,caya/固醇
+52_17.png,sodium
+52_18.png,94g
+52_2.png,ser 100 ml
+52_3.png,energy
+52_4.png,caloed iat/飽和脂肪
+52_5.png,protein
+52_6.png,801/資g
+52_7.png,total fat
+52_8.png,88 g
+52_9.png,saturatpe faat
+53_0.png,enaa料
+53_1.png,er 0 cal
+53_10.png,nrtitrdrmat
+53_11.png,182克/g
+53_12.png,1al
+53_13.png,1g
+53_15.png,e51s
+53_16.png,61101克/g
+53_17.png,sodium
+53_18.png,67毫克/mg
+53_2.png,nutrition information
+53_3.png,per 10 ml
+53_4.png,vt6ey
+53_5.png,1722kcal
+53_6.png,5at
+53_7.png,14克/g
+53_8.png,tre a千卡/cal
+53_9.png,19克/g
+5_0.png,taaitpse fat/飽和脂肪
+5_1.png,carrohydrats/碳水化合物
+5_10.png,titany/能量
+5_11.png,trans fat/反式脂肪
+5_12.png,6aor1gs
+5_13.png,carbohydrat/碳水化合物
+5_14.png,633克/g
+5_15.png,silaories路量
+5_16.png,3ugar9gy/能量
+5_17.png,cai s
+5_2.png,tii fa/反式脂肪
+5_3.png,energy/能量
+5_4.png,clg/es
+5_5.png,paeta/蛋白質
+5_6.png,1n0s
+5_7.png,total fat/總脂肪
+5_8.png,6.20mg
+5_9.png,saturated fat/飽和脂肪
+6_0.png,nutrion information
+6_1.png,營養資料
+6_10.png,saturated fat/飽和脂肪
+6_11.png,tit/s
+6_12.png,trans fat/反式脂肪
+6_13.png,satratedrate物/碳水化合物
+6_14.png,4619/g
+6_15.png,sugarai0s
+6_16.png,trtalng/a
+6_17.png,sordi r
+6_2.png,pa/zt
+6_3.png,paoery /能量
+6_5.png,protein/蛋白質
+6_6.png,1.0/g
+6_7.png,totan fat/反式脂肪
+6_8.png,19/g
+6_9.png,trt/能量
+7_0.png,ditarroyyf rate/碳水化合物
+7_1.png,ditrohyd rates/碳水化合物
+7_10.png,vt
+7_11.png,trans fat/反式脂肪
+7_12.png,traa肪
+7_13.png,carbohydrates/碳水化合物
+7_14.png,sugareas
+7_15.png,calium
+7_16.png,1r51ag
+7_2.png,snlergy
+7_3.png,sutamfat
+7_4.png,petrag
+7_5.png,營養/資g
+7_6.png,total fva脂肪
+7_7.png,5n料
+7_8.png,satrated f 脂肪
+7_9.png,3a e
+8_0.png,vrainr t
+8_1.png,saeurated rat
+8_10.png,83kcag
+8_11.png,511/al
+8_12.png,ereagy/能量
+8_13.png,s6vcat
+8_14.png,1養g
+8_15.png,daie/蛋白質
+8_16.png,0g
+8_17.png,1rat
+8_18.png,total fat/總脂肪
+8_19.png,營養資料
+8_2.png,serving per package
+8_20.png,4081/g
+8_21.png,saturated fat/飽和脂肪
+8_22.png,營養s
+8_23.png,trans fat/反式脂肪
+8_24.png,營as
+8_25.png,fat
+8_26.png,carbohydrates/碳水化合物
+8_27.png,pr010as
+8_28.png,sagaries/卡路糖
+8_29.png,20.7mg
+8_3.png,diar5mg
+8_30.png,營養at
+8_31.png,sodicmg
+8_32.png,22gal
+8_33.png,vutarl if raiot
+8_34.png,trmg
+8_4.png,carbhydra/和脂肪
+8_5.png,petyd fat/水化合里
+8_6.png,pervingd i ze
+8_7.png,851克mg
+8_8.png,total fat/總脂肪
+8_9.png,savintcat
+9_0.png,nutrith  ts
+9_1.png,ca/ag
+9_10.png,0ay資料
+9_11.png,trans fat/反式脂肪
+9_12.png,0/cal
+9_13.png,carbohydrates/碳水化合物
+9_14.png,6129s
+9_15.png,caloris
+9_16.png,6121/s
+9_17.png,sari  m
+9_18.png,tatarg /at
+9_2.png,catrbohydfats/碳水和脂肪
+9_3.png,9ad faat
+9_4.png,cay
+9_5.png,taoti t/式脂肪
+9_6.png,cmg
+9_7.png,0n
+9_8.png,dara fat/反式脂肪
+9_9.png,saturated fat/飽和脂肪

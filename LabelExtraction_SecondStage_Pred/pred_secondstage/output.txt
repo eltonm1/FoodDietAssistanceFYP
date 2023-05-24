@@ -1,0 +1,22 @@
+
+21
+
+N{'/sodium': '1.1毫克/mg', '15mg': '7.8克/g', 'carbohydrates': '7.8克g', 'per 100 g': '0克/g', 'saturated fat': '1.2克/g', 'total fat': '2.0克/g', '蛋白質/protein': '1.7克/g', '千焦': '2600千卡/kcal', 'energy': '每100毫升 /per 100 ml'}
+O{'sodium': '營養資料 nutritio', 'sugar': '7.5克/g', 'cholestrial': '7.8克/g', 'trans fat': '0克/g', 'saturated fat': '1.2克g', 'total fat': '2.0克/g', '蛋白質/protein': '177克/g', '千焦': '23千卡/kcal', 'energy': '每100毫升 per 100ml'}
+
+30
+N{'sodium': '12毫克/mg', 'sugar': '71克/g', 'vitamin c': '0克/g', 'total carbohydrates/總碳水化合物': '0克/g', 'trans fat': '0克/g', '14g': '0克/g', 'saturated fat': '0克/g', 'per 100 ml': '千焦', '蛋白質/protein': '7g', 'energy': '1222kcal', 'nutrition information': '29千卡/kcal'}
+O{'sodium': '12毫克/mg', 'sugars/糖': '7.1克/g', 'dietary fiber': '0克/g', 'total fat/總脂肪': '0克/g', 'trans fat': '0克/g', 'fat': '0克/g', 'total fat': '0克/g', '總脂肪 / total fat': 'sugar/糖', '糖/sugars': 'sugar/糖', 'energy': '12g', 'nutrition information': '29千卡/kcal'}
+
+41
+N{'sodium': '791kcal', 'sugars': '74g', 'carbohydrates': 'iron', '千焦': 'protein', 'trans fat': '70g', 'saturated fat': '74g', 'total fat': '74g', 'protein': '千焦', 'energy': '千焦', 'per 100 ml': '千焦', 'nutrition information': '千焦'}
+O{'sodium': 'sugars/糖', 'sugars': '每100毫升', 'cholestrial': 'sugars', 'trans fat': 'iron', 'saturated fat': '0g', '0克/g': '0g', 'protein': 'iron', 'sugar': 'sugars', 'per 100 ml': 'irot', 'nutrition information': 'sugar/糖'}
+
+49
+N{'sodium': 'iron', 'sugars': '千焦', '營養資料': '千焦', 'carbohydrates': '營養資料', '千焦': '0g', 'protein': '0g', 'saturated fat': '33kcal', 'fat': '千焦'}
+O{'sodium': 'iron', 'sugars': '營養資料', '77g': 'trans fat/反式脂肪', 'cholestrial': '營養資料', '千焦': '0g/克', 'trans fat': '0g/克', 'saturated fat': '33kcal', 'fat': '0g'}
+
+{'/sodium': '1毫克/mg', '15mg': '7.5克/g', 'carbohydrates': '7.8克/g', 'trans fat': '0克/g', 'saturated fat': '1.2克g', 'total fat': '2.0克/g', '蛋白質/protein': '1.7克/g', '千焦': '215毫克/mg', 'energy': 'per 100 ml/每100毫升cholesterol'}
+{'sodium': '12毫克/mg', 'sugars': '7.1克/g', '70tolis carbohydrates': '0克/g', 'total carbohydrates/總碳水化合物': '0克/g', 'trans fat': '0克/g', 'fat': '0克/g', 'saturated fat': '千焦', '蛋白質/protein': '7g', 'energy': '22g', 'nutrition information': '29千卡/kcal'}
+{'sodium': '91g', 'sugars': '71g', 'carbohydrates': '千焦', '千焦': '700g', 'total fat': '70g', 'saturated fat': '71g', 'protein': '10.1g', 'energy': '千焦', 'per 100 ml': '101kcal', 'nutrition information': 'iron'}
+{'sodium': '0g', 'sugars': '千焦', '千焦': '0g', 'carbohydrates': '750千焦/kj', 'trans fat': '0g', 'saturated fat': '33kcal', 'fat': 'fat'}

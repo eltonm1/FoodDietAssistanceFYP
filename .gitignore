@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+EMNIST/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.jpeg
+*.jpg
+*.png
+*.weights
+*.vscode
+*.mlpackage
+*.pth
+*.pt
+NTTextYoloV4/log
+
+Archive.zip
